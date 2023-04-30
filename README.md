@@ -1,4 +1,4 @@
-# IS-PRACTICAL
+# IS-PRACTICAL-FILE
 
 1. Implement the error correcting code.
 2. Implement the error detecting code.
